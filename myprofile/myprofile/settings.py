@@ -25,7 +25,7 @@ SECRET_KEY = 'vls-$xr*g1oj#$_lfsr5lyndtc-%)&+mdj=lm&xe0o1erh2-!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0f01d873a798c4.localhost.run','127.0.0.1','8f74b3f12ff1c4.localhost.run']
+ALLOWED_HOSTS = ['0f01d873a798c4.localhost.run','127.0.0.1','8f74b3f12ff1c4.localhost.run','jallikattu.site', 'www.jallikattu.site']
 
 
 # Application definition
